@@ -1,0 +1,17 @@
+RG              = "RG"
+tags            = "deployment"
+VnetName        = "vnet"
+location        = "East US"
+admin_user_name = "adminuser"
+admin_password  = "Hakolzorem2022"
+# okta_secret     = "xjpwsDFzJjDa91xiX6nipNtVw1vTzJoQI1cf03pj"
+# okta_client_id  = "0oa437dn5jwwONx5N5d7"
+# okta_org_url    = "dev-50792663.okta.com"
+# okta_key        = "00D72h0jWjHAFAYLHM3YSViP6gs9XRHGozeQ4EDZpv"
+pg_user      = "postgres"
+pg_pass      = "Hakolzorem2022"
+node_count   = 3
+cluster_name = "k8s-weight-tracker"
+/* for azure kubernates cluster service_principal */
+appId    = "2e8740a4-f210-4545-a67e-6b3197878a38"
+password = "zvi5TthX6BdP-XH5CpqfNKbZ0PKApVasso"

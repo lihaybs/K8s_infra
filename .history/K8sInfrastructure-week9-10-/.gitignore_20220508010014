@@ -1,0 +1,12 @@
+.terraform/
+.terraform.lock.hcl
+terraform.tfvars
+.tftpl
+.md
+.sh
+
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfstate.d/
+
+AgentConfigScript.sh
